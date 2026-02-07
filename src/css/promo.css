@@ -1,6 +1,9 @@
+.promo-container {
+  min-width: 411px;
+}
 .preview-wrap  {
   padding-bottom: 100px;
-  background-image: url(img/webp/bg-gradient.svg);
+  background-image: url(../img/promo/bg-gradient.svg);
   background-repeat: no-repeat;
   background-position-y: top;
   background-size: contain;
